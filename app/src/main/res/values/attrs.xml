@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="EmptyLayout">
+        <attr name="dora_emptyLayout" format="reference"/>
+        <attr name="dora_errorLayout" format="reference"/>
+        <attr name="dora_loadingLayout" format="reference"/>
+    </declare-styleable>
+</resources>
